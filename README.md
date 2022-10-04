@@ -1,2 +1,4 @@
 # basketball_moneyball
 
+When most people hear the term "Moneyball", their minds go to the popular movie starring Brad Pitt and Jonah Hill. The basic premise of this, frankly, great movie was that the 2002 Oakland Athletics were faced wiith the uneviable task of assembling a championship-calibur roster within a budget that was approximately a third of the size of the most competitive teams. The 2001 Oakland Athletics has finished the season with 102 wins and had suffered a crushiing loss to the New York Yankees, a team en-route to its fourth consecutive world series appearance and fifth in 6 years. To make matters worse, the Oakland Athletics were quickly outbid in thier attempts to resign three key players: first baseman and 2000 American League MVP Jason Giambi, outfielder Johnny Damon, and reliif pitcher Jason 
+
