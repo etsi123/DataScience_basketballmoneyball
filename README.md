@@ -13,7 +13,7 @@ To begin this analysis, I scraped the NBA.com website for plus/minus during indi
 Since we are also interested in finding players who are undervalued, I pulled salary information from ESPN.com. Note that a player could begin or end his NBA career within that time-frame as well, resulting in some missing salary information data. We resolved this by imputing the missing values with their average salaries. I plotted RAPM against salary and highlighted players who fell in the top 40% and top 25% of RAPM score and salary, respectively, as shown in the Figure below. In the upper-right quadrant, we begin to see the obvious choices (e.g., LeBron James, Kevin Durant, Chris Paul, etc.). Interestingly, Kobe Bryant had the league’s highest salary but fell towards the middle of this region. This is likely due to his post-Achilles tendon tear years, where he struggled to regain his form at. In the upper-left quadrant, these players are the ones I argue must be undervalued. Notice the presence of Stephen Curry, he notably __ ankles and was underpaid, as the Golden State Warriors were unsure whether or not he would ever be able to overcome these debilitating injuries. By the end of the 2016 season however, he had led the team to the 2015 NBA Championship, won 2 MVP’s (one of which made him the first unanimous MVP selection), and broke the 1996 Bulls record for most wins in a single season (73-9). Similarly, Kawhi Leonard blossomed into a perrenial all-star during the 2016 season, hence his relatively low salary. 
 
 
-![scatter](https://user-images.githubusercontent.com/37279371/200144463-adab1c56-fc5a-44eb-8e53-4e5fea0083e5.png)
+
 
 
 
