@@ -14,6 +14,7 @@ Since we are also interested in finding players who are undervalued, I pulled sa
 
 
 
+![scatter](https://user-images.githubusercontent.com/37279371/200469105-a2c32a73-ed63-4c87-9e6c-1e8b87c59031.png)
 
 
 
